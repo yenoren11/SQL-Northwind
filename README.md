@@ -32,5 +32,4 @@ Dự án bao gồm nhiều kỹ thuật xử lý dữ liệu quan trọng như:
 2.  Tham khảo các câu truy vấn mẫu trong tệp `A-Truy-van.sql`.
 3.  Thực thi các Stored Procedure trong tệp `B-Ma-kich-ban.sql` để thực hiện các báo cáo động theo tham số.
 
----
-*Dự án được xây dựng bởi yenoren11.*
+
